@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysLeftRotation/ArraysLeftRotation.iml" filepath="$PROJECT_DIR$/ArraysLeftRotation/ArraysLeftRotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assessments/Assessments.iml" filepath="$PROJECT_DIR$/Assessments/Assessments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigDecimal/BigDecimal.iml" filepath="$PROJECT_DIR$/BigDecimal/BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigInteger/BigInteger.iml" filepath="$PROJECT_DIR$/BigInteger/BigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitSet/BitSet.iml" filepath="$PROJECT_DIR$/BitSet/BitSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoinChange/CoinChange.iml" filepath="$PROJECT_DIR$/CoinChange/CoinChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoinChange_Fail/CoinChange_Fail.iml" filepath="$PROJECT_DIR$/CoinChange_Fail/CoinChange_Fail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CovariantReturnTypes/CovariantReturnTypes.iml" filepath="$PROJECT_DIR$/CovariantReturnTypes/CovariantReturnTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTime/DateAndTime.iml" filepath="$PROJECT_DIR$/DateAndTime/DateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DequeStack/DequeStack.iml" filepath="$PROJECT_DIR$/DequeStack/DequeStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandlingTryCatch/ExceptionHandlingTryCatch.iml" filepath="$PROJECT_DIR$/ExceptionHandlingTryCatch/ExceptionHandlingTryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciLite/FibonacciLite.iml" filepath="$PROJECT_DIR$/FibonacciLite/FibonacciLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciReturns/FibonacciReturns.iml" filepath="$PROJECT_DIR$/FibonacciReturns/FibonacciReturns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank.iml" filepath="$PROJECT_DIR$/.idea/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashset/Hashset.iml" filepath="$PROJECT_DIR$/Hashset/Hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICS_HackerRank/ICS_HackerRank.iml" filepath="$PROJECT_DIR$/ICS_HackerRank/ICS_HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAnagrams/JavaAnagrams.iml" filepath="$PROJECT_DIR$/JavaAnagrams/JavaAnagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLoops2/JavaLoops2.iml" filepath="$PROJECT_DIR$/JavaLoops2/JavaLoops2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JewelGame/JewelGame.iml" filepath="$PROJECT_DIR$/JewelGame/JewelGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewKeyboard/NewKeyboard.iml" filepath="$PROJECT_DIR$/NewKeyboard/NewKeyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatterSyntaxChecker/PatterSyntaxChecker.iml" filepath="$PROJECT_DIR$/PatterSyntaxChecker/PatterSyntaxChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimalityTest/PrimalityTest.iml" filepath="$PROJECT_DIR$/PrimalityTest/PrimalityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleAdditionVarArgs/SimpleAdditionVarArgs.iml" filepath="$PROJECT_DIR$/SimpleAdditionVarArgs/SimpleAdditionVarArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringTokens/StringTokens.iml" filepath="$PROJECT_DIR$/StringTokens/StringTokens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubArray/SubArray.iml" filepath="$PROJECT_DIR$/SubArray/SubArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDArray/TwoDArray.iml" filepath="$PROJECT_DIR$/TwoDArray/TwoDArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XORProblem/XORProblem.iml" filepath="$PROJECT_DIR$/XORProblem/XORProblem.iml" />
+    </modules>
+  </component>
+</project>
